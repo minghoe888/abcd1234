@@ -1,0 +1,3822 @@
+[
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png",
+    "name": " Exclusively Madonna",
+    "url_resolved": "https://2.mystreaming.net:443/er/madonna/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": " Exclusively The Eagles ",
+    "url_resolved": "https://2.mystreaming.net:443/er/eagles/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": " Exclusively Whitney Houston ",
+    "url_resolved": "https://2.mystreaming.net:443/er/whitneyhouston/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/127496a8-d79b-4b7b-9981-a7112fb3922c.png",
+    "name": " Positively Stress Relief -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": ". Abdulbasit Abdulsamad",
+    "url_resolved": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+  },
+  {
+    "favicon": "",
+    "name": ".Quran Radio",
+    "url_resolved": "http://n03.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmRiYf-oAK8S3EmGgA4srOg"
+  },
+  {
+    "favicon": "",
+    "name": ".القرآن الكريم ",
+    "url_resolved": "http://n0f.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmRbEGgEAV7WVBfHt_W1IkA"
+  },
+  {
+    "favicon": "https://i.imgur.com/nLzJ0bI.jpg",
+    "name": "1-Exclusively Thin Lizzy",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/thinlizzy/icecast.audio"
+  },
+  {
+    "favicon": "https://my2.radiolize.com/public/1580_empress_radio_oawpib",
+    "name": "1580 Empress Radio",
+    "url_resolved": "https://my2.radiolize.com/radio/8060/radio.mp3"
+  },
+  {
+    "favicon": "https://www.admn.ae/content/admedia/images/favicon/favicon.png",
+    "name": "Abu Dhabi FM",
+    "url_resolved": ""
+  },
+  {
+    "favicon": "https://www.admn.ae/content/admedia/images/favicon/favicon.png",
+    "name": "Abu dhabi FM",
+    "url_resolved": ""
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_193802736.jpg?alt=media&token=36dc8561-f0e2-4ca1-af71-d766fe575f7e",
+    "name": "Adrian Boult - Classical Radio",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/cradrianboult/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e9d80fb7-ffa2-4940-80cf-aaa3d79b71ab.png",
+    "name": "Andrea Bocelli - Classical Radio ",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crandreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Andrea Bocelli - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crandreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Aretha Franklin",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/arethafranklin/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Arturo Toscanini - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crarturotoscanini/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Barbra Streisand",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/streisand/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Bavarian Radio Symphony Orchestra",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crbavarianradioorchestra/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_215217165.jpg?alt=media&token=f2ed4a59-e58e-411b-aff5-741ae59e177e",
+    "name": "Beethoven - Classical Radio",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crbeethoven/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Berlin Philharmonic Orchestra - Classical Radio\n",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crberlinphilharmonic/icecast.audio"
+  },
+  {
+    "favicon": "https://big1062.com/wp-content/uploads/2020/11/BIG-02.png",
+    "name": "Big FM 106.2 UAE",
+    "url_resolved": "https://funasia.streamguys1.com/live4"
+  },
+  {
+    "favicon": "https://campaignme.com/wp-content/uploads/2019/07/FAN_BIG_Identity_final_Master-e1618395655847.png",
+    "name": "Big FM UAE",
+    "url_resolved": "https://cast5.asurahosting.com/proxy/spooler/stream"
+  },
+  {
+    "favicon": "null",
+    "name": "Big Melodies",
+    "url_resolved": "https://funasia.streamguys1.com/live9"
+  },
+  {
+    "favicon": "",
+    "name": "Bob Dylan",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bobdylan/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 20's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1920s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 2000s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang2000s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 2010s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang2010s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 2020s",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang2020s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 30's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1930s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 40's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1940s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 50's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1950s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 60's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang1960s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 70's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang1970s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 80s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1980s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Boomerang 90s",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang1990s/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Bryn Terfel - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crbrynterfel/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Bryn Terfel - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crbrynterfel/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "C.R - Beethoven",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crbeethoven/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_164340510.jpg?alt=media&token=4a19694c-e46b-416c-9f2f-6b0b6ee576d6",
+    "name": "C.R - Joan Sutherland",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crjoansutherland/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_162704598.jpg?alt=media&token=76b6a058-847b-4b06-8c1d-745c46c02f8c",
+    "name": "C.R - London Symphony Orchestra",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crlso/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240328_221624470.jpg?alt=media&token=04fce930-679e-466f-8d36-548b8335d525",
+    "name": "C.R - Mozart",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crmozart/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240329_184137983.jpg?alt=media&token=b78a48da-4925-41a3-a4f8-6ab8585fe9c7",
+    "name": "C.R - Vladimir Horovitz",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crvladamirhorowitz/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "C.R. - Adrian Boult",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/cradrianboult/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_165327258.jpg?alt=media&token=d50d2656-a530-4ceb-9d9e-8713d3b06e59",
+    "name": "C.R. - André Rieu ",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crandrerieu/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Andrea Bocelli ",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crandreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Andres Segovia ",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crandressegovia/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240329_185243020.jpg?alt=media&token=6defb390-35f1-4a4d-b1a9-4eb497af2916",
+    "name": "C.R. - Arturo Toscanini",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crarturotoscanini/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_212254251.jpg?alt=media&token=4cb4c928-3d9a-4969-a3bc-43e98d22662c",
+    "name": "C.R. - Bavarian Radio Symphony Orchestra",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crbavarianradioorchestra/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Berlin Philarmonic",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crberlinphilharmonic/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_102933886.jpg?alt=media&token=4e3a859c-6412-4219-8a77-aea55a6e601b",
+    "name": "C.R. - Brahms",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crbrahms/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_103730827.jpg?alt=media&token=ac083181-0bab-4722-8583-6b7cdd963600",
+    "name": "C.R. - Bryn Terfel",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crbrynterfel/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Calm",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crcalm/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Chicago Symphony Orchestra ",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crchicagosymphonyorchestra/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240327_150116777.png?alt=media&token=d02a8fcb-7328-4347-9772-e0af8d86828b",
+    "name": "C.R. - Chopin",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crchopin/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240329_214819995.jpg?alt=media&token=c05283ba-6965-4df5-b77c-3b100de57be3",
+    "name": "C.R. - Cleveland Orchestra ",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crclevelandorchestra/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_185326319.jpg?alt=media&token=e09a2b63-85d3-44f9-b54c-342b46c32973",
+    "name": "C.R. - Colin Davis",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crcolindavis/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_104359336.jpg?alt=media&token=3d8d653b-4e87-4f51-be69-ff75868054a8",
+    "name": "C.R. - Debussy",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crdebussy/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "C.R. - Essential Classics",
+    "url_resolved": "http://2.mystreaming.net:80/uber/cressentialclassics/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_115745534.jpg?alt=media&token=c75e9de5-aacc-42dd-b126-700942718a61",
+    "name": "C.R. - Essential Classics",
+    "url_resolved": "http://2.mystreaming.net:80/uber/cressentialclassics/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_104809532.jpg?alt=media&token=669fe7dc-5845-436e-afc8-f54f4f7d7dfc",
+    "name": "C.R. - Handel",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crhandel/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Herbert Von Karajan",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crherbertvonkarajan/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240329_151959202.png?alt=media&token=8920477b-95cc-46c7-87ba-522bd5b9244c",
+    "name": "C.R. - J.S. Bach",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images/IMG_20240329_151959202.png?alt=media",
+    "name": "C.R. - J.S. Bach",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images/IMG_20240329_151959202.png?alt=media",
+    "name": "C.R. - J.S. Bach",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Jacqueline Du Pre ",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crjacquelinedurpre/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - John Williams ",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crjohnwilliams/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - John Williams  (Guitarist)",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crjohnwilliamsguitarist/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Jose Carreras ",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crjosevarreras/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_105926714.jpg?alt=media&token=2a285a11-5749-430e-8e45-3e8ee49f20f7",
+    "name": "C.R. - Julian Bream",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crjulianbream/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Julian Lloyd Webber",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crjulianlloydwebber/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Katherine Jenkins",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crkatherinejenkins/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Kiri Te Kanawa",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crkiritekanawa/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Lang Lang",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crlanglang/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Lang Lang",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crlanglang/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Liszt",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crliszt/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_111804576.jpg?alt=media&token=d0a14d57-127a-41e1-a796-e10ea75248f5",
+    "name": "C.R. - Lorin Maazel",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crlorinmaazel/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_165439196.jpg?alt=media&token=9d0b7466-20e3-4a1c-821a-fee1c82a36f7",
+    "name": "C.R. - Luciano Pavarotti",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crlucianopavarotti/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_184636066.jpg?alt=media&token=b3ed3302-ad77-4ff6-bc53-596ccc5140c3",
+    "name": "C.R. - Malcolm Sargent",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crmalcolmsargent/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Maria Callas",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crmariacallas/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Marin Alsop",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crmarinalsop/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_172204172.jpg?alt=media&token=958d6e33-5da1-4ac4-920c-9e6fa7d333d6",
+    "name": "C.R. - Monserrat Caballe",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crmonserratcaballe/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_173012411.jpg?alt=media&token=f9a7bb1c-dfef-440c-ad98-a08e25933fb4",
+    "name": "C.R. - Nadia Boulanger",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crnadiaboulanger/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_180225762.png?alt=media&token=6f51b172-bf1c-46ba-9033-eb42944e1ee2",
+    "name": "C.R. - New Release",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crnewreleases/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_173407935.jpg?alt=media&token=962199e9-f9c4-432c-8b37-69c321fef229",
+    "name": "C.R. - Nigel Kennedy",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crnigelkennedy/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_174300166.jpg?alt=media&token=3e33098d-30bb-43ae-b782-f73f698ccaa4",
+    "name": "C.R. - Placido Domingo",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crplacidodomingo/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_175615819.jpg?alt=media&token=a6fcc0b8-cc84-4bcf-8718-9544280d8107",
+    "name": "C.R. - Ralph Vaugham Williams",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crralphvaughanwilliams/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_180819019.jpg?alt=media&token=620ceb5b-a9c1-4c8d-bee6-386c61e67d78",
+    "name": "C.R. - Ravel",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crravel/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Royal Concert Orchestra of Netherlands",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crrcon/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_192855625.jpg?alt=media&token=d592cad6-b257-41bc-8728-306d0080ecb2",
+    "name": "C.R. - Schubert",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crschubert/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_192530016.jpg?alt=media&token=f8326b72-9e58-470b-9522-56e378181734",
+    "name": "C.R. - Shostakovich",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crshostakovich/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_191656876.jpg?alt=media&token=7f0f206d-2eab-433c-9489-1ecd2d182a57",
+    "name": "C.R. - Sibelius",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crsibelius/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_185754622.jpg?alt=media&token=b632b28f-bcef-494d-b50c-660e8adb40ee",
+    "name": "C.R. - Simon Rattle",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crsimonrattle/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_184052687.jpg?alt=media&token=ddd811da-4dc9-4280-988d-3d9ff9bf82f2",
+    "name": "C.R. - Simon Rattle",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crsimonrattle/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "C.R. - Sir Adrian Boult",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/cradrianboult/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240329_132351384.jpg?alt=media&token=5cd2f465-9cb2-4073-974c-72c8bd7f5798",
+    "name": "C.R. - Strauss",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crstrauss/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "C.R. - Stravinsky",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crstravinsky/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Tchaikovsky ",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crtchaikovsky/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240327_163611550.jpg?alt=media&token=a67284b4-943c-443b-b496-d676e147804a",
+    "name": "C.R. - Vanessa Mae",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crvanessamae/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "C.R. - Verdi",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crverdi/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_222913275.jpg?alt=media&token=6308dc1f-548b-4d9e-9a22-63acf9ebf375",
+    "name": "C.R. - Vienna Philarmonic Orchestra",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crviennaphilharmonic/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_181535964.jpg?alt=media&token=145b3d3f-edde-4448-9413-9c065e988495",
+    "name": "C.R. - Vivaldi",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crvivaldi/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_183012410.jpg?alt=media&token=2603d528-331f-45ba-a804-fee600123ed8",
+    "name": "C.R. - Vladimir  Horovitz",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crvladamirhorowitz/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_152209511.jpg?alt=media&token=03cd8019-d05f-46d9-b44a-900392e2e2a4",
+    "name": "C.R. - Wagner",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/crwagner/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_182532325.jpg?alt=media&token=359f384f-f39c-4220-8043-74e7f7a3326e",
+    "name": "C.R. - Yehudi Menuin ",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/cryehudimenuin/icecast.audio"
+  },
+  {
+    "favicon": "https://d371i8ihhgym7w.cloudfront.net/106317201.jpg",
+    "name": "Calm Smooth",
+    "url_resolved": "https://nl4.mystreaming.net/uber/calmsmooth/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Carpenters",
+    "url_resolved": "https://2.mystreaming.net:443/er/carpenters/icecast.audio"
+  },
+  {
+    "favicon": "https://onlineradiofm.in/assets/image/radio/180/city-1016-india.jpg",
+    "name": "City 1016",
+    "url_resolved": "https://n10.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&_=760588&rj-tok=AAABmRjH1BUAhoXgwU1aJABfCw"
+  },
+  {
+    "favicon": "https://mytuner-radio.com/favicon.ico",
+    "name": "Classic Rock - All The Classics",
+    "url_resolved": "https://classicrock.streeemer.com/listen/classic_rock/radio.aac"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classica Radio - Ravel",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crravel/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio  -  Chicago Symphony Orchestra ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crchicagosymphonyorchestra/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio  - Katherine Jenkins",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crkatherinejenkins/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio  - Lang Lang",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crlanglang/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio  - Sibelius",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crsibelius/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio  - Sir Colin Davis",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crcolindavis/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio  - Stravinsky",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crstravinsky/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - André Rieu ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crandrerieu/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Andrea Bocelli",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crandreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Classical Radio - Andrea Segovia",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crandressegovia/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Andres Segovia",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crandressegovia/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Bavarian Radio Symphony Orchestr",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crbavarianradioorchestra/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Beethoven",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crbeethoven/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Berlin Philharmonic",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crberlinphilharmonic/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Brahms",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crbrahms/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - CALM",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crcalm/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Chopin",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crchopin/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Debussy",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crdebussy/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Essential Classics",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/cressentialclassics/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Handel",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crhandel/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Joan Sutherland",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crjoansutherland/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - John Williams",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjohnwilliams/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - John Williams (guitarist)",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjohnwilliamsguitarist/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn-images.audioaddict.com/6/8/3/2/8/2/683282aa68794c0b0b2d182b04efaad9.jpg?size=70x70",
+    "name": "Classical Radio - Liszt",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crliszt/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Liszt",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crvanessamae/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - London Symphony Orchestra ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crlso/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Luciano Pavarotti",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crlucianopavarotti/icecast.audio"
+  },
+  {
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Malcolm_Sargent%2C_1941.jpg",
+    "name": "Classical Radio - Malcolm Sargent",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crmalcolmsargent/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Mozart",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crmozart/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - New Releases",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crnewreleases/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Nigel Kennedy",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crnigelkennedy/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Placido Domingo",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crplacidodomingo/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Ralph Vaughan Williams",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crralphvaughanwilliams/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Schubert",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crschubert/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn-images.audioaddict.com/a/6/5/8/a/c/a658ac8819a0668d2d6cc678e3efd96e.jpg?size=70x70",
+    "name": "Classical Radio - Shostakovich",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crshostakovich/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Sir Colin Davis",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crcolindavis/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Sir Simon Rattle",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crsimonrattle/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Tchaikovsky",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crtchaikovsky/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Vanessa Mae",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crvanessamae/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Verdi",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crverdi/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Vienna Philharmonic",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crviennaphilharmonic/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Vivaldi",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crvivaldi/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio - Vladamir Horowitz",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crvladamirhorowitz/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Classical Radio - Wagner",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crwagner/icecast.audio"
+  },
+  {
+    "favicon": "https://cultura.hu/wp-content/uploads/2019/03/yehudi-menuhin02.jpg",
+    "name": "Classical Radio - Yehudi Menuin ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/cryehudimenuin/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Classical Radio-  Sir Adrian Boult",
+    "url_resolved": "https://2.mystreaming.net:443/uber/cradrianboult/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Cleveland Orchestra - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crclevelandorchestra/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Club FM UAE",
+    "url_resolved": "https://eu10.fastcast4u.com/clubfmuae"
+  },
+  {
+    "favicon": "",
+    "name": "Country Music Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/cmr50scountry/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Dance Machine",
+    "url_resolved": "https://edm.streeemer.com/listen/edm/radio.aac"
+  },
+  {
+    "favicon": "null",
+    "name": "Dil say dil tak",
+    "url_resolved": "http://stream-176.zeno.fm/gun9488tbphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndW45NDg4dGJwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicTA0dlFFQ1ZRck9rYk16ZGxxWjZkUSIsImlhdCI6MTc1NzA2OTUyOSwiZXhwIjoxNzU3MDY5NTg5fQ.VPemN75OyacgyzMWOl0s8kFetEPM4lQltPzppK2CXws"
+  },
+  {
+    "favicon": "https://www.dubaieye1038.com/favicon",
+    "name": "Dubai Eye 103.8",
+    "url_resolved": "https://live.onic.ie/stream-u105?aw_0_1st.playerId=wireless-website&_=477645"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/939a4c9f-a4e0-43a2-a2fb-72b472fcde20.png",
+    "name": "Easy 00s",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easy00/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy 10s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easy2010/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/7005fe06-7505-43c7-8086-6b5598332562.png",
+    "name": "Easy 60s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easy60/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/2c35413f-17b5-43c5-aaa4-b930a2578ce0.png",
+    "name": "Easy 60s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easy60/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/314e0fdd-80a2-4361-9786-706d37306b71.png",
+    "name": "Easy 70s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easy70/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/c6dbc863-421d-4e20-8496-5ece0735da8b.png",
+    "name": "Easy 90s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easy90/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy Andrea Bocelli",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easyandreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy Andy Williams",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easyandywilliams/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy Barbra Streisand",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easybarbrastreisand/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=250,quality=60/https://manager.uber.radio/static/uploads/brand/ef5817a0-3f46-4400-83a5-9969a1ad6d34.png",
+    "name": "Easy Bing Crosby",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easybingcrosby/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy Classical",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easyclassical/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy Country",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easycountry/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/8fb8c0b2-e5c6-4419-a15e-7705a5b072aa.png",
+    "name": "Easy Crooners",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easycrooners/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Easy Doris Day",
+    "url_resolved": "http://nl4.mystreaming.net:80/uber/easybertkaempfert/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Easy Doris Day",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easydorisday/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/c504ef7a-1685-4c35-aa77-786399125edb.png",
+    "name": "Easy Folk",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easyfolk/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy Instrumentals",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easyinstrumentals/icecast.audio"
+  },
+  {
+    "favicon": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Easy James Last",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easyjameslast/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/2e562904-2cab-4d53-ba20-a8a524bbc006.png",
+    "name": "Easy Jazz",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/easyjazz/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/2f06e9fc-f1df-4198-80f5-565f6750d4e5.png",
+    "name": "Easy Mix",
+    "url_resolved": "https://2.mystreaming.net:443/uber/easymix/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240713_160406440.jpg?alt=media&token=cccb3b2c-fb43-4e9a-9f53-12dd78efad75",
+    "name": "Easy Radio - Andrea Bocelli",
+    "url_resolved": "http://2.mystreaming.net:80/uber/easyandreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240713_154125048.jpg?alt=media&token=2da21c1f-7450-427f-8a9d-824a24e42b6e",
+    "name": "Easy Radio - Celine Dion",
+    "url_resolved": "http://2.mystreaming.net:80/uber/easycelinedion/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Ella Fitzgerald",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/ellafitzgerald/icecast.audio"
+  },
+  {
+    "favicon": "https://www.admn.ae/content/admedia/images/favicon/favicon.png",
+    "name": "Emarat FM",
+    "url_resolved": ""
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/android-icon-192x192.png",
+    "name": "ER Willie Nelson",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/willienelson/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "exclusive BB King",
+    "url_resolved": "https://2.mystreaming.net:443/er/bbking/icecast.audio"
+  },
+  {
+    "favicon": "https://play.you.radio/static/assets/img/android-icon-192x192.png",
+    "name": "Exclusive Burning Spear",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/burningspear/icecast.audio"
+  },
+  {
+    "favicon": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fplay.you.radio%2fgenre%2f25",
+    "name": "Exclusive Gregory Isaacs",
+    "url_resolved": "https://2.mystreaming.net:443/er/gregoryisaacs/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240716_160751896.jpg?alt=media&token=fbac6de6-f885-4109-8f19-df26f794c4ce",
+    "name": "Exclusive HITS - Celine Dion hits",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/celinedionhits/icecast.audio"
+  },
+  {
+    "favicon": "https://www.radio.net/images/broadcasts/c0/6d/129996/1/c300.png",
+    "name": "Exclusive Jefferson Airplane",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/jeffersonairplane/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusive Pete Seeger",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/peteseeger/icecast.audio"
+  },
+  {
+    "favicon": "https://www.radio.net/images/broadcasts/af/bd/114017/3/c300.png",
+    "name": "Exclusive Queen",
+    "url_resolved": "https://2.mystreaming.net:443/er/queen/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusive Radio - Amy Winehouse Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/amywinehousehits/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusive Radio - Andrea Bocelli",
+    "url_resolved": "http://2.mystreaming.net:80/er/andreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusive Radio - Aretha Franklin",
+    "url_resolved": "https://2.mystreaming.net:443/er/arethafranklin/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240716_155806263.jpg?alt=media&token=c84d5c45-6d83-4641-ad94-818d10bfb6d7",
+    "name": "Exclusive Radio - Celine Dion",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/celinedion/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusive Radio - George Michael  hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/georgemichaelhits/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusive Radio - Italy",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/italy/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/00db5f78-23c8-40c6-86da-e0b06858e062.jpg",
+    "name": "Exclusive Radio – Black Sabbath",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/blacksabbath/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusive Radio – Bob Marley",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bobmarley/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusive Radio – Queen",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/queen/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusive Radio Bon Jovi",
+    "url_resolved": "http://2.mystreaming.net:80/er/bonjovi/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Billy Joel Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/billyjoelhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Celine Dion Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/celinedionhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Celine Dion Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/celinedionhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Celine Dion Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/celinedionhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Elton John ",
+    "url_resolved": "https://2.mystreaming.net/er/eltonjohn/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Elvis Presley",
+    "url_resolved": "https://2.mystreaming.net:443/er/elvispresley/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Michael Jackson ",
+    "url_resolved": "https://2.mystreaming.net:443/er/michaeljackson/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Michael Jackson ",
+    "url_resolved": "https://2.mystreaming.net:443/er/michaeljackson/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Prince Hits",
+    "url_resolved": "https://nl4.mystreaming.net/er/princehits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Rod Stewart Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/rodstewarthits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Shania Twain Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/shaniatwainhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively  Steve Winwood",
+    "url_resolved": "https://2.mystreaming.net:443/er/stevewinwood/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Aerosmith Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/aerosmithhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Alanis Morissette",
+    "url_resolved": "https://2.mystreaming.net:443/er/alanismorissette/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Artic Monkeys",
+    "url_resolved": "https://2.mystreaming.net:443/er/arcticmonkeys/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Artic Monkeys Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/arcticmonkeyshits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Avicii",
+    "url_resolved": "https://2.mystreaming.net:443/er/avicii/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Beatles Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/thebeatleshits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Black Uhuru",
+    "url_resolved": "https://2.mystreaming.net:443/er/blackuhuru/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Blondie Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/blondiehits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Blur",
+    "url_resolved": "https://2.mystreaming.net:443/er/blur/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Blur Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/blurhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Bob Dylan Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bobdylanhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Bob Marley Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bobmarleyhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Bon Jovi Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bonjovihits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Bryan Adams Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bryanadamshits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Carpenters Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/carpentershits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Def Leppard",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/defleppard/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Dr Dre",
+    "url_resolved": "https://2.mystreaming.net:443/er/drdre/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Duran Duran Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/duranduranhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Eminem",
+    "url_resolved": "https://2.mystreaming.net:443/er/eminem/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - George Harrison",
+    "url_resolved": "https://2.mystreaming.net:443/er/georgeharrison/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Joan Jett",
+    "url_resolved": "https://2.mystreaming.net:443/er/joanjett/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Kasabian",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/kasabian/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Kate Bush",
+    "url_resolved": "https://2.mystreaming.net:443/er/katebush/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Keane",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/keane/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Kiss",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/kiss/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Lorde",
+    "url_resolved": "https://2.mystreaming.net:443/er/lorde/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Madness",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/madness/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Metallica",
+    "url_resolved": "https://2.mystreaming.net:443/er/metallica/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - New Order",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/neworder/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Nickelback",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/nickelback/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Norah Jones",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/norahjones/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Oasis Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/oasishits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Patti Smith",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/pattismith/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Pixies",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/pixies/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Pretenders Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/pretendershits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Prince Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/princehits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - R.E.M. Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/remhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Radiohead",
+    "url_resolved": "https://2.mystreaming.net:443/er/radiohead/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Red Hot Chili Peppers",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/chilipeppers/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Roxette Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/roxettehits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Sheryl Crow",
+    "url_resolved": "https://2.mystreaming.net:443/er/sherylcrow/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Sia",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/sia/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Suzanne Vega",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/suzannevega/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - The B-52s",
+    "url_resolved": "https://2.mystreaming.net:443/er/theb52s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - The Black Crowes",
+    "url_resolved": "https://2.mystreaming.net:443/er/theblackcrowes/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - The Killers",
+    "url_resolved": "https://2.mystreaming.net:443/er/thekillers/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - The Police",
+    "url_resolved": "https://2.mystreaming.net:443/er/police/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - The Smiths",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/thesmiths/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Tom Petty Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/tompettyhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Twenty One Pilots",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/twentyonepilots/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - U2",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/u2/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - U2 Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/u2hits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - UB40",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/ub40/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively - Ziggy Marley",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/ziggymarley/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/station/image/34.png",
+    "name": "Exclusively 10cc",
+    "url_resolved": "https://2.mystreaming.net:443/er/10cc/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively 2Pac",
+    "url_resolved": "https://2.mystreaming.net:443/er/2pac/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively 50 Cent",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/50cent/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively A-Ha",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/aha/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg",
+    "name": "Exclusively ABBA",
+    "url_resolved": "https://2.mystreaming.net/er/abba/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively ABBA",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/abba/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ceeab1d1-a39a-4501-99b6-62b44aadf5f7.jpg",
+    "name": "Exclusively Adam Lambert",
+    "url_resolved": "https://2.mystreaming.net/er-app/adamlambert/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Adele",
+    "url_resolved": "https://2.mystreaming.net:443/er/adele/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Adele (Only Hits)",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/adelehits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Aerosmith",
+    "url_resolved": "https://2.mystreaming.net:443/er/aerosmith/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively AHA",
+    "url_resolved": "https://2.mystreaming.net:443/er/aha/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Air Supply",
+    "url_resolved": "https://2.mystreaming.net:443/er/airsupply/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Al Green",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/algreen/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Alabama",
+    "url_resolved": "https://2.mystreaming.net:443/er/alabama/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/91dd0386-5e93-412b-8d53-f41389785d31.jpg",
+    "name": "Exclusively Albert Collins",
+    "url_resolved": ""
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Alice Cooper",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/alicecooper/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Alice Cooper (Only Hits)",
+    "url_resolved": "https://2.mystreaming.net:443/er/alicecooperhits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Alison Moyet",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/alisonmoyet/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Allman Brothers",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/allmanbrothers/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively America",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/america/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Amy Wibehouse",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/amywinehouse/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Amy Winehouse",
+    "url_resolved": "https://2.mystreaming.net:443/er/amywinehouse/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Amy Winehouse (Only Hits)",
+    "url_resolved": "https://2.mystreaming.net:443/er/amywinehousehits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Andrea Bocelli",
+    "url_resolved": "https://2.mystreaming.net:443/er/andreabocelli/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Andy Williams",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/andywilliams/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Annie Lennox",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/annielennox/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Backstreet Boys",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/backstreetboys/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Bad Company",
+    "url_resolved": "https://2.mystreaming.net:443/er/badcompany/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Barbra Streisand",
+    "url_resolved": "https://2.mystreaming.net:443/er/streisand/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Beastie Boys",
+    "url_resolved": "https://2.mystreaming.net:443/er-app/beastieboys/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Bee Gees",
+    "url_resolved": "https://2.mystreaming.net:443/er/beegees/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Beyonce",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/beyonce/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9546a7bb-6ff4-4c6a-a15a-6b667260bf55.jpg",
+    "name": "Exclusively Big Country",
+    "url_resolved": "https://2.mystreaming.net/er/bigcountry/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/19558440-200a-47cb-8b6b-38d6b857c971.jpg",
+    "name": "Exclusively Bill Withers",
+    "url_resolved": "http://2.mystreaming.net/er/billwithers/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/8827bc84-147d-48b4-9578-846936158311.jpg",
+    "name": "Exclusively Billy Idol",
+    "url_resolved": "http://2.mystreaming.net/er/billyidol/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Billy Joel",
+    "url_resolved": "https://2.mystreaming.net:443/er/billyjoel/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Blondie",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/blondie/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Bob Dylan",
+    "url_resolved": "https://2.mystreaming.net:443/er/bobdylan/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240408_174119295.jpg?alt=media&token=0f95b70e-d702-4a02-9596-9f86ff2531e4",
+    "name": "Exclusively Bob Dylan",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/bobdylan/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Bob Marley",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/bobmarley/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Exclusively Bollywood ",
+    "url_resolved": "https://nl4.mystreaming.net/er/bollywood/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Exclusively bollywood ",
+    "url_resolved": "https://nl4.mystreaming.net/er/bollywood/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1759413c-3ca7-49ad-a1a8-6f8c510123f9.jpg",
+    "name": "Exclusively Bonnie Raitt",
+    "url_resolved": "http://2.mystreaming.net/er/bonnieraitt/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4c18ce0f-9e44-4e7d-9ee3-03071eb7c6ca.jpg",
+    "name": "Exclusively Booker T & The MG's",
+    "url_resolved": "https://2.mystreaming.net/er/bookert/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Boston",
+    "url_resolved": "https://2.mystreaming.net:443/er/boston/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Britney Spears",
+    "url_resolved": "https://2.mystreaming.net:443/er/britney/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/14e65fec-3809-4f49-b6c2-fedd60e7c2c0.jpg",
+    "name": "Exclusively Bruce Springsteen",
+    "url_resolved": "https://nl4.mystreaming.net/er/springsteen/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ec2a3b2e-d860-4bcd-80da-5be721d37f81.png",
+    "name": "Exclusively Bryan Ferry",
+    "url_resolved": "https://nl4.mystreaming.net/er/bryanferry/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively BTS",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bts/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0d227593-decb-4eb3-9113-74685a266f7b.jpg",
+    "name": "Exclusively Carly Simon",
+    "url_resolved": "http://2.mystreaming.net/er/carlysimon/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/27b72709-7188-48f5-a28d-abf6e077821c.jpg",
+    "name": "Exclusively Carole King",
+    "url_resolved": "https://2.mystreaming.net/er/caroleking/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Carpenters",
+    "url_resolved": "https://2.mystreaming.net:443/er/carpenters/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Cat Stevens ",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/catstevens/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3abdf0c9-dc16-4599-993b-2da04299567c.jpg",
+    "name": "Exclusively Cat Stevens",
+    "url_resolved": "http://2.mystreaming.net/er/catstevens/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Cher",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/cher/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e59b9825-f3e9-4bb7-83c6-63e9febfc7ad.jpg",
+    "name": "Exclusively Chic",
+    "url_resolved": "https://nl4.mystreaming.net/er/chic/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Chicago",
+    "url_resolved": "https://2.mystreaming.net:443/er/chicago/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Christina Aguilera",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/christinaaguilera/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Cliff Richard",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/cliffrichard/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Coldplay",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/coldplay/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Creedence Clearwater Revival",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/creedence/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b49ea016-ef45-4560-9b42-2a28beef7520.jpg",
+    "name": "Exclusively Crosby, Stills, Nash & Young",
+    "url_resolved": "http://2.mystreaming.net/er/csny/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Crowded House",
+    "url_resolved": "https://2.mystreaming.net/er/crowdedhouse/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/07f6aae5-5bfc-4afa-9f0a-2f43385b0790.jpg",
+    "name": "Exclusively Curtis Mayfield",
+    "url_resolved": "https://2.mystreaming.net/er/curtismayfield/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Daft Punk",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/daftpunk/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively David Bowie",
+    "url_resolved": "https://2.mystreaming.net:443/er/davidbowie/icecast.audio"
+  },
+  {
+    "favicon": "https://en-ie.radioline.co/favicon.ico",
+    "name": "Exclusively Dean Martin",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/deanmartin/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively Dean Martin",
+    "url_resolved": "https://2.mystreaming.net:443/er/deanmartin/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Deep Purple",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/deeppurple/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Demi Lovato",
+    "url_resolved": "https://2.mystreaming.net:443/er/demilovato/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Depeche Mode",
+    "url_resolved": "https://2.mystreaming.net:443/er/depechemode/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/64da41ad-3742-4f62-907d-96f1cf11d81a.jpg",
+    "name": "Exclusively Diana Krall",
+    "url_resolved": "https://nl4.mystreaming.net/er/dianakrall/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3d7226ef-7d66-4a30-81a1-ea78f1800aea.jpg",
+    "name": "Exclusively Dionne Warwick",
+    "url_resolved": "https://2.mystreaming.net/er/dionnewarwick/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6fbeb789-537d-46b5-8862-83d4e948b520.jpg",
+    "name": "Exclusively Dire Straits",
+    "url_resolved": "https://2.mystreaming.net/er/direstraits/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Dolly Parton",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/dollyparton/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c795a4a3-a7a5-48a0-9917-52bfe2ee5399.jpg",
+    "name": "Exclusively Donna Summer",
+    "url_resolved": "https://nl4.mystreaming.net/er/donnasummer/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a2d7fc76-f7de-4635-bc8d-bbfb13aa7fa4.jpg",
+    "name": "Exclusively Drifters",
+    "url_resolved": "https://nl4.mystreaming.net/er/drifters/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/2fbd9a6e-e48c-461c-a667-50f360a13f4a.jpg",
+    "name": "Exclusively Duke Ellington",
+    "url_resolved": "https://2.mystreaming.net/er/dukeellington/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Eagles",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/eagles/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/36f022c1-8177-4966-ad76-4933888ef846.jpg",
+    "name": "Exclusively Earth, Wind & Fire",
+    "url_resolved": "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5a9dbcbd-8bae-488a-8e04-5cf645c13562.jpg",
+    "name": "Exclusively Ella Fitzgerald",
+    "url_resolved": "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5a9dbcbd-8bae-488a-8e04-5cf645c13562.jpg",
+    "name": "Exclusively Ella Fitzgerald",
+    "url_resolved": "https://2.mystreaming.net/er/ellafitzgerald/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively ELO",
+    "url_resolved": "https://2.mystreaming.net:443/er/elo/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively ELO-Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/elohits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Elvis Presley",
+    "url_resolved": "http://2.mystreaming.net:80/er/elvispresley/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Emerson, Lake & Palmer",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/emersonlakepalmer/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Engelbert Humperdinck",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/engelberthumperdinck/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Enrique Iglesias",
+    "url_resolved": "https://2.mystreaming.net:443/er/enriqueiglesias/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Eric Clapton",
+    "url_resolved": "https://2.mystreaming.net:443/er/ericclapton/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cb1ac45e-268d-4d70-9ca3-155eab0cd3b9.jpg",
+    "name": "Exclusively Eva Cassidy",
+    "url_resolved": "https://2.mystreaming.net/er/evacassidy/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Fleetwood Mac",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/fleetwoodmac/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively Foo Fighters",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/foofighters/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c1dddbeb-24eb-4f77-8fe4-594956fc5c68.jpg",
+    "name": "Exclusively Frank Sinatra",
+    "url_resolved": "https://2.mystreaming.net/er/franksinatra/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively Frank Sinatra",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/franksinatra/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Garth Brooks",
+    "url_resolved": "https://2.mystreaming.net:443/er/garthbrooks/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Gary Moore",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/garymoore/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e82e9b96-c422-49ac-99fc-ae6cf3747bef.jpg",
+    "name": "Exclusively Genesis",
+    "url_resolved": "https://2.mystreaming.net/er/genesis/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Genesis",
+    "url_resolved": "https://2.mystreaming.net:443/er/genesis/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a625e66a-f925-4c6d-98a5-20027ae2949b.jpg",
+    "name": "Exclusively George Harrison",
+    "url_resolved": "http://2.mystreaming.net/er/georgeharrison/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively George Michael",
+    "url_resolved": "https://2.mystreaming.net:443/er/georgemichael/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0a263053-ce9e-4a7d-9495-e8232839e07e.jpg",
+    "name": "Exclusively Glenn Miller",
+    "url_resolved": "https://2.mystreaming.net/er/glennmiller/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7980cd89-dc97-4417-97f1-1809d94cb6a7.jpg",
+    "name": "Exclusively Gordon Lightfoot",
+    "url_resolved": "http://2.mystreaming.net/er/gordonlightfoot/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Green Day",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/greenday/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively Guns N’ Roses",
+    "url_resolved": "https://2.mystreaming.net:443/er/gunsnroses/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/10b41c00-37ea-4397-b448-edb8af0e9581.jpg",
+    "name": "Exclusively Heart",
+    "url_resolved": "https://nl4.mystreaming.net/er/heart/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3363394a-cb41-4441-8a46-ca33962b18fe.jpg",
+    "name": "Exclusively Herbie Hancock",
+    "url_resolved": "https://2.mystreaming.net/er/herbiehancock/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/73d1d42d-f942-4273-8cd7-377ad6077a5f.jpg",
+    "name": "Exclusively Huey Lewis & The News",
+    "url_resolved": "https://nl4.mystreaming.net/er/hueylewis/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/088e94be-8b10-461a-8a67-8c40e7eaa600.jpg",
+    "name": "Exclusively Human League",
+    "url_resolved": "https://nl4.mystreaming.net/er/humanleague/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively INXS",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/INXS/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively Iron Maiden",
+    "url_resolved": "https://2.mystreaming.net:443/er/ironmaiden/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Italy",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/italy/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e66c65c6-3e83-4d42-b41a-a7cc198a4f88.jpg",
+    "name": "Exclusively James Taylor",
+    "url_resolved": "http://2.mystreaming.net/er/jamestaylor/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Janet Jackson",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/janetjackson/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Jethro Tull",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/jethrotull/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Jimi Hendrix",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/hendrix/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Joan Baez",
+    "url_resolved": "https://2.mystreaming.net:443/er/joanbaez/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9e3484f5-ec1e-4d74-8539-1e6189f6e4ec.jpg",
+    "name": "Exclusively Joan Jett",
+    "url_resolved": "https://2.mystreaming.net/er/joanjett/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Joe Bonamassa",
+    "url_resolved": "https://2.mystreaming.net:443/er/joebonamassa/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Joe Satriani",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/joesatriani/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively John Coltrane",
+    "url_resolved": "http://2.mystreaming.net:80/er/johncoltrane/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively John Denver",
+    "url_resolved": "https://2.mystreaming.net:443/er/johndenver/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively John Lee Hooker",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/johnleehooker/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively John Lennon",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/lennon/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Johnny Cash",
+    "url_resolved": "https://2.mystreaming.net:443/er/johnnycash/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4b862137-5321-4dbf-8dc5-339f9df7bf9d.jpg",
+    "name": "Exclusively Joni Mitchell",
+    "url_resolved": "http://2.mystreaming.net/er/jonimitchell/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Josh Groban",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/joshgroban/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Justin Bieber",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/justinbieber/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Justin Timberlake",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/justintimberlake/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Kanye West",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/kanyewest/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/38353153-c2ec-41d1-8c45-2828ebcb223e.jpg",
+    "name": "Exclusively Kate Bush",
+    "url_resolved": "http://2.mystreaming.net/er/katebush/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Keane",
+    "url_resolved": "https://2.mystreaming.net:443/er/keane/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Kelly Clarkson",
+    "url_resolved": "https://2.mystreaming.net:443/er/kellyclarkson/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/09783d18-4d0e-4086-ada7-b237d4b72913.jpg",
+    "name": "Exclusively Lady Gaga",
+    "url_resolved": "https://nl4.mystreaming.net/er-app/ladygaga/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/38250748-4c11-4757-9b2f-f653e43da704.jpg",
+    "name": "Exclusively Lady Gaga Hits",
+    "url_resolved": "https://2.mystreaming.net/er-app/ladygagahits/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Led Zeppelin",
+    "url_resolved": "https://nl4.mystreaming.net:443/er-app/ledzeppelin/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Led Zeppelin - Only Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er-app/ledzeppelinhits/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/8e5a7514-b380-4b17-b3a1-dc1e43b407a1.jpg",
+    "name": "Exclusively Leonard Cohen",
+    "url_resolved": "https://2.mystreaming.net/er/leonardcohen/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/bdd8b8e4-2a11-411a-a338-e2b356607358.jpg",
+    "name": "Exclusively Level 42",
+    "url_resolved": "https://2.mystreaming.net/er/level42/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/262fe18f-9207-459e-b41f-96c5d9269613.jpg",
+    "name": "Exclusively Linda Ronstadt",
+    "url_resolved": "http://2.mystreaming.net/er/lindaronstadt/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Lionel Richie",
+    "url_resolved": "https://2.mystreaming.net:443/er/lionelrichie/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9dd7f32f-79dc-42c5-b479-005ecdbe3483.jpg",
+    "name": "Exclusively Louis Armstrong",
+    "url_resolved": "https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Lynyrd Skynyrd",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/thinlizzy/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Michael Buble",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/michaelbuble/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Michael Jackson",
+    "url_resolved": "https://2.mystreaming.net:443/er/michaeljackson/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Mobi",
+    "url_resolved": "https://2.mystreaming.net:443/er/moby/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Moby",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/moby/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c08d18d7-2028-482e-9a64-265669c04b26.jpg",
+    "name": "Exclusively Moody Blues",
+    "url_resolved": "https://nl4.mystreaming.net/er/moodyblues/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/89b7545c-2e75-4e7a-a265-029d934da2b5.png",
+    "name": "Exclusively Muddy Waters",
+    "url_resolved": "https://2.mystreaming.net/er/muddywaters/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Nat King Cole",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/natkingcole/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Neil Young",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/neilyoung/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Nirvana",
+    "url_resolved": "https://2.mystreaming.net:443/er/nirvana/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f33dbb53-05fe-427c-99d0-a7e7e1e3e46a.jpg",
+    "name": "Exclusively Olivia Newton-John",
+    "url_resolved": "https://2.mystreaming.net/er/onj/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a7dc30a9-bcc7-4284-8d22-822c4fa70e66.jpg",
+    "name": "Exclusively Oscar Peterson",
+    "url_resolved": ""
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Patsy Cline",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/patsycline/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Paul McCartney",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/paulmccartney/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Pet Shop Boys",
+    "url_resolved": "https://2.mystreaming.net:443/er/petshopboys/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Pete Seeger",
+    "url_resolved": "http://2.mystreaming.net/er/peteseeger/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/32b184ec-6524-4966-ab43-34172a1cbffb.jpg",
+    "name": "Exclusively Pete Seeger",
+    "url_resolved": "https://nl4.mystreaming.net/er/peteseeger/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Peter Frampton",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/peterframpton/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f5d2bc84-34f8-417b-9d0e-55470919cc16.jpg",
+    "name": "Exclusively Peter Gabriel",
+    "url_resolved": "https://nl4.mystreaming.net/er/petergabriel/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Pink Floyd",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/pinkfloyd/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Post Malone",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/postmalone/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Prince",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/prince/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a939910d-b074-4dbb-884f-69d0aab6cb14.jpg",
+    "name": "Exclusively Queen",
+    "url_resolved": "https://nl4.mystreaming.net/er/queen/icecast.audio"
+  },
+  {
+    "favicon": "https://charlieparkermusic.com/wp-content/uploads/2022/03/CP_Gallery_550x550_006_MAR22.jpg",
+    "name": "Exclusively Radio - Charlie Parker",
+    "url_resolved": "https://2.mystreaming.net:443/er/charlieparker/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Radio Italy",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/italy/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Radio-Italy",
+    "url_resolved": "https://2.mystreaming.net:443/er/italy/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Ramones",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/ramones/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Reba Mcentire",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/rebamcentire/icecast.audio"
+  },
+  {
+    "favicon": "http://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively REM",
+    "url_resolved": "https://2.mystreaming.net:443/er/rem/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Rory Gallagher",
+    "url_resolved": "https://2.mystreaming.net:443/er/rorygallagher/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Roxette",
+    "url_resolved": "https://2.mystreaming.net:443/er/roxette/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Roy Orbison",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/royorbison/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Roy Orbison hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/royorbisonhits/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/84bbdae1-3fba-4fab-a9b4-86d31db702a5.jpg",
+    "name": "Exclusively Sade",
+    "url_resolved": "http://2.mystreaming.net/er/sade/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Santana",
+    "url_resolved": "https://2.mystreaming.net:443/er/santana/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Shakira",
+    "url_resolved": "https://2.mystreaming.net:443/er/shakira/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively Shania Twain",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/shaniatwain/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Simon And Garfunkel",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/simongarfunkle/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/caa3e98d-9725-4946-bf90-9a12e99468c8.jpg",
+    "name": "Exclusively Simple Minds",
+    "url_resolved": "https://nl4.mystreaming.net/er/simpleminds/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/d5b40e1a-dee2-4e82-b4fd-e9014fae4239.jpg",
+    "name": "Exclusively Simply Red",
+    "url_resolved": "https://2.mystreaming.net/er/simplyred/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Status Quo",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/statusquo/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/fbb3a4d7-1178-4752-b24d-67b9017eb6eb.jpg",
+    "name": "Exclusively Steeleye Span",
+    "url_resolved": "https://nl4.mystreaming.net/er/steeleyespan/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Steely Dan",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/steelydan/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Stevie Wonder",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/steviewonder/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Sting",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/sting/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Stone Temple Pilots",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/stonetemplepilots/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Styx",
+    "url_resolved": "https://nl4.mystreaming.net/er/styx/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Supertramp",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/supertramp/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Take That",
+    "url_resolved": "https://2.mystreaming.net:443/er/takethat/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cc50da2d-7a57-41c0-9ebe-d9c1bd283745.jpg",
+    "name": "Exclusively Talking Heads",
+    "url_resolved": "https://nl4.mystreaming.net/er/talkingheads/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Taylor Swift",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/taylorswift/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c473e131-17f7-4774-b2de-31f7c8a64dbf.jpg",
+    "name": "Exclusively Tears for Fears",
+    "url_resolved": "https://nl4.mystreaming.net/er/tearsforfears/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/d217c5ea-ee74-4673-8312-9ce935cb3c78.jpg",
+    "name": "Exclusively Texas",
+    "url_resolved": "https://nl4.mystreaming.net/er/texas/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5d4d5046-faf9-4ec5-9675-4958510a7f32.jpg",
+    "name": "Exclusively The 1975",
+    "url_resolved": "https://2.mystreaming.net/er/the1975/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Allman Brothers Band",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/allmanbrothers/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/58959c16-0ac3-436f-af0d-6474256e81c7.jpg",
+    "name": "Exclusively The Band",
+    "url_resolved": "https://2.mystreaming.net/er/theband/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Beach Boys",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/beachboys/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Beatles",
+    "url_resolved": "http://2.mystreaming.net:80/er/beatles/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Byrds",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/thebyrds/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively The Clash",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/theclash/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively The Cure",
+    "url_resolved": "https://2.mystreaming.net:443/er/thecure/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Cure",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/thecure/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Doors",
+    "url_resolved": "https://nl4.mystreaming.net:443/er-app/doors/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/512796ee-250b-471d-9239-c0f712518dff.jpg",
+    "name": "Exclusively The Dubliners",
+    "url_resolved": "http://2.mystreaming.net/er/thedubliners/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Kinks",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/thekinks/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Police -  Hits",
+    "url_resolved": "https://2.mystreaming.net:443/er/policehits/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c28f3099-a9bb-4fb7-9d3c-34e3ee98bd2b.jpg",
+    "name": "Exclusively The Stranglers",
+    "url_resolved": "https://2.mystreaming.net/er/thestranglers/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Temptations",
+    "url_resolved": "https://2.mystreaming.net:443/er/thetemptations/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Weeknd",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/theweeknd/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively The Who - Only Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er-app/whohits/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Thin Lizzy",
+    "url_resolved": "https://2.mystreaming.net:443/er/thinlizzy/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Tim McGraw",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/timmcgraw/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/00ab6877-83a0-4ca4-a7c8-90cf7842b4c8.jpg",
+    "name": "Exclusively Tina Turner",
+    "url_resolved": "http://2.mystreaming.net/er/tinaturner/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Tom Jones",
+    "url_resolved": "https://2.mystreaming.net:443/er/tomjones/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Tom Petty",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/tompetty/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5165a0af-919a-4bba-b358-e07774dd585a.jpg",
+    "name": "Exclusively Tom Waits",
+    "url_resolved": "https://nl4.mystreaming.net/er/tomwaits/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Tony Bennett",
+    "url_resolved": "https://2.mystreaming.net:443/er/tonybennett/icecast.audio"
+  },
+  {
+    "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+    "name": "Exclusively U2",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/u2/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Exclusively Van Halen",
+    "url_resolved": "https://2.mystreaming.net:443/er/vanhalen/icecast.audio"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Exclusively Whitney Houston",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/whitneyhouston/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg",
+    "name": "Exclusively ZZ Top",
+    "url_resolved": "https://2.mystreaming.net/er/zztop/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Fats Waller Just Jazz",
+    "url_resolved": "https://2.mystreaming.net/uber/jjrfatswaller/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Fats Waller Just Jazz",
+    "url_resolved": "https://nl4.mystreaming.net/uber/jjrfatswaller/icecast.audio"
+  },
+  {
+    "favicon": "https://forkids.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Fun Radio For Kids - Bedtime Stories",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/forkidzbedtimestories/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f044a098-02a6-4253-9380-63d0a4fe7184.jpg",
+    "name": "Gloria Estefan",
+    "url_resolved": "http://2.mystreaming.net/er/gloriaestefan/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Greatest Hits 1920's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1920s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Greatest Hits 1930's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang1930s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 1940's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1940s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 1950's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1950s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 1960's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1960s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 1970's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang1970s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 1980's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang1980s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Greatest Hits 1990's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang1990s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 2000's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang2000s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 2010's",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/boomerang2010s/icecast.audio"
+  },
+  {
+    "favicon": "https://greatesthits.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Greatest Hits 2020's",
+    "url_resolved": "https://2.mystreaming.net:443/uber/boomerang2020s/icecast.audio"
+  },
+  {
+    "favicon": "https://www.viaggio-in-austria.it/herbert-von-karajan01.jpg",
+    "name": "Herbert Von Karajan - Classical Radio ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crherbertvonkarajan/icecast.audio"
+  },
+  {
+    "favicon": "https://play.you.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "J.S.BACH - Classical Radio",
+    "url_resolved": "http://2.mystreaming.net:80/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://www.euroarts.com/sites/default/files/tv_show/Remembering%20Jackie%2004.jpg",
+    "name": "Jacqueline Du Pre' - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjacquelinedurpre/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Jimi Hendrix",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/hendrix/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Joan Sutherland - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjoansutherland/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Joni Mitchell 2",
+    "url_resolved": "https://nl4.mystreaming.net/er/jonimitchellhits/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "José Carreras - Classical Radio ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crjosevarreras/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+    "name": "JS Bach - Classical Radio",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+    "name": "JS Bach - Classical Radio",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+    "name": "JS Bach - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+    "name": "JS Bach - Classical Radio",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crjsbach/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Julian Bream - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjulianbream/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Julian Lloyd Webber - Classical Radio ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crjulianlloydwebber/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Julian Lloyd Webber - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crjulianlloydwebber/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Al Jarreau",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjraljarreau/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Amy Winehouse",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjramywinehouse/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Art Tatum",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrarttatum/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Benny Goodman",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrbennygoodman/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Bessie Smith",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrbessiesmith/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Bill Evans",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrbillevans/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Billie Holiday",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrbillieholiday/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Buddy Rich",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrbuddyrich/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz charles Mingus",
+    "url_resolved": "https://2.mystreaming.net:443/uber/jjrcharlesmingus/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Charlie Parker",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrcharlieparker/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Chet Baker",
+    "url_resolved": "https://2.mystreaming.net:443/uber/jjrchetbaker/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz Ray Charles ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/jjrraycharles/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Just Jazz The Best Of Jazz",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/starboxjazz/icecast.audio"
+  },
+  {
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsR990fEHfe2FsqoI5Qc4R47IRjuJ3-rz0cA&s",
+    "name": "Kadak",
+    "url_resolved": "https://n0b.radiojar.com/s1mygd1frxquv?rj-ttl=5&rj-tok=AAABmRm2E9gA-AI-czOTbJ0J9w"
+  },
+  {
+    "favicon": "",
+    "name": "Katherine Jenkins - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crkatherinejenkins/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Katherine Jenkins - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crkatherinejenkins/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Kiri Te Kanawa - Classical Radio ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crkiritekanawa/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Lorin Maazel - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crlorinmaazel/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 2000s",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lr2000s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 2010s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lr2010s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 50s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lr1950s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 60s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lr1960s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 70s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lr1970s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 80s",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lr1980s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - 90s",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lr1990s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Bollywood",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrbollywood/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Country",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrcountry/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Date Night",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrdatenight/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Disney",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrdisney/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - French Love Songs",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrfrenchlovesongs/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Indie Romance",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrindieromance/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.onlineradiobox.com/img/l/2/116702.v1.png",
+    "name": "Love Radio - Indie Romance",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrindieromance/icecast.audio"
+  },
+  {
+    "favicon": "https://loveradio.love/static/assets/img/apple-icon-120x120.png",
+    "name": "Love Radio - Jazz",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrjazz/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Love Break Up",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrbreakupsongs/icecast.audio"
+  },
+  {
+    "favicon": "https://loveradio.love/static/assets/img/apple-icon-120x120.png",
+    "name": "Love Radio - Love mix",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrlovemix/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/5fffb65a-330d-4a20-8f5f-8f2a208638c5.png",
+    "name": "Love Radio - Love Mix",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrlovemix/icecast.audio"
+  },
+  {
+    "favicon": "https://loveradio.love/static/assets/img/apple-icon-120x120.png",
+    "name": "Love Radio - Mandopop Love Songs",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrmandopop/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Movies",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrmovies/icecast.audio"
+  },
+  {
+    "favicon": "https://loveradio.love/static/assets/img/apple-icon-120x120.png",
+    "name": "Love Radio - Reggae",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrreggae/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Romance",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrromance/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Romantic Piano",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrromanticpiano/icecast.audio"
+  },
+  {
+    "favicon": "https://loveradio.love/static/assets/img/apple-icon-120x120.png",
+    "name": "Love Radio - Timeless",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrtimeless/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Turkish Love songs",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrturkish/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio - Wedding",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrwedding/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Love Radio -Cantopop Love",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/lrcantopop/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Love radio bollywood ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/lrbollywood/icecast.audio"
+  },
+  {
+    "favicon": "https://luv1071.com/slider/favicon",
+    "name": "LUV 107.1",
+    "url_resolved": "https://funasia.streamguys1.com/live2"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Maria Callas - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crmariacallas/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Marin Alsop - Classical Radio ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crmarinalsop/icecast.audio"
+  },
+  {
+    "favicon": "https://s3content.mbcloud.fm/channels/1705332503Group 4.png",
+    "name": "MBC Loud 105.5 FM",
+    "url_resolved": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0"
+  },
+  {
+    "favicon": "",
+    "name": "Miles Davis",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/milesdavis/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Mirchi FM 102.4",
+    "url_resolved": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Montserrat Caballe' - Classical Radio ",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crmonserratcaballe/icecast.audio"
+  },
+  {
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240617_115035284.png?alt=media&token=602cf807-c36e-4ffb-841e-e7484f4bd0b4",
+    "name": "Mozart - Classical Radio",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crmozart/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Nadia Boulanger - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crnadiaboulanger/icecast.audio"
+  },
+  {
+    "favicon": "https://static2.mytuner.mobi/static/icons/apple-touch-icon-144x144-precomposed.png",
+    "name": "Oldies Vibes",
+    "url_resolved": "https://oldies.streeemer.com/listen/oldies/radio.aac"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1920's",
+    "url_resolved": "https://streaming.positivity.radio/pr/1920/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1930's",
+    "url_resolved": "https://streaming.positivity.radio/pr/1930/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1940's",
+    "url_resolved": "https://streaming.positivity.radio/pr/1940/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1950's",
+    "url_resolved": "https://streaming.positivity.radio/pr/1950/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1960's",
+    "url_resolved": "https://streaming.positivity.radio/pr/posi60s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1970's",
+    "url_resolved": "https://streaming.positivity.radio/pr/posi70s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1980's",
+    "url_resolved": "https://streaming.positivity.radio/pr/posi80s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 1990's",
+    "url_resolved": "https://streaming.positivity.radio/pr/posi90s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 2000's",
+    "url_resolved": "https://streaming.positivity.radio/pr/posi00s/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Positively 2010's",
+    "url_resolved": "https://streaming.positivity.radio/pr/posi10s/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/105614e4-f852-42d8-ab77-7d10b03b46c7.png",
+    "name": "Positively Calm -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/calm/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/004676ee-47e8-42d7-a013-58314d4eb985.png",
+    "name": "Positively Calm Kids -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/calmkids/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/4ee384c2-df1d-4cf3-a183-a3596d614f9a.png",
+    "name": "Positively Calming 396Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/calming/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/68cf5138-97e2-46d7-9296-b6c453459029.png",
+    "name": "Positively Christmas Carols -om",
+    "url_resolved": "https://2.mystreaming.net/er/christmascarols/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/7affc9c1-009f-4ae7-92a1-25220cfd5183.png",
+    "name": "Positively Classical -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posiclassical/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/dc0f23c3-5262-446b-a641-926901eb872b.png",
+    "name": "Positively Compassion 639Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/compassion/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/0838e29f-369c-4238-938c-65a1004e67e5.png",
+    "name": "Positively Detox 741Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/detox/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/ab269dc8-4a0c-4eaa-8529-f1105e72442c.png",
+    "name": "Positively Easy -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posieasy/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/8f9c9873-0e19-4eac-a3e7-4537720c40b2.png",
+    "name": "Positively Energy -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/energy/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/2c95f1d4-d34d-479f-b39b-4c961c2da75f.png",
+    "name": "Positively Enlightening 936Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/enlightening/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/4d88d6aa-ca72-46dd-bf10-db06c83a43c7.png",
+    "name": "Positively Focus -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posisuccessful/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/1eae0b21-f4a6-4d6b-9a34-d77893d87b6e.png",
+    "name": "Positively Gold -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posigold/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/695be525-9e21-4539-9c2e-94a0a0adb9d8.png",
+    "name": "Positively Good Afternoon -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/goodafternoon/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/02e57f13-6aeb-4e38-be48-e19c6c5bbe81.png",
+    "name": "Positively Good Evening -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/goodevening/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/69d4c30d-96a8-4ee1-9134-03a69d048519.png",
+    "name": "Positively Good Morning -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/goodmorning/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/ac5f588d-6781-4dcf-82c7-fdcb6da653f8.png",
+    "name": "Positively Good Night -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/goodnight/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/4c4ea475-963e-40e1-9371-2e3524dadc27.png",
+    "name": "Positively Happy -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/happy/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/80cbb083-a7f5-40c7-8145-6865d520d788.png",
+    "name": "Positively Healing 285Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/healing/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/29e0e942-a279-4839-9df8-62985fae9c56.png",
+    "name": "Positively Intuition 852Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/intuition/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/48e55773-dd51-472f-bbf6-0aa8b91b36f8.png",
+    "name": "Positively Love -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posilove/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/7bac10e2-c101-4732-afca-aad1345681e9.png",
+    "name": "Positively Massage -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/massage/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/6b82f1f4-8ac2-4d42-9908-34c40c79a257.png",
+    "name": "Positively Meditation -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/a3506d94-3a61-40c9-875f-b5c671881de4.png",
+    "name": "Positively Motivation -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/motivation/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/da60976c-6fa6-48b4-b616-97214481ff98.png",
+    "name": "Positively Pain Relief 174Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/painrelief/icecast.audio"
+  },
+  {
+    "favicon": "https://thumbs.dreamstime.com/b/flower-life-colorful-illustration-white-background-34947889.jpg",
+    "name": "Positively Peaceful 432Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posipeaceful/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/e4bebaf0-c36e-4ce9-b35a-a15022db7228.png",
+    "name": "Positively Piano -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/piano/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/c504b8e4-ad2e-4a1a-a146-5725a4aef01f.png",
+    "name": "Positively Reiki -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/reiki/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/61662c9c-3f89-4151-804a-f1f7e9207533.png",
+    "name": "Positively Rejuvenate 528 Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/rejuvenate/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/05195052-fc0f-4478-afe1-359cb12fa6e7.png",
+    "name": "Positively Relaxation -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/relaxation/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/7b774c5d-4e10-4024-bab2-a7967e4af698.png",
+    "name": "Positively Relaxing Workout -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/workoutrelax/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/0f88e216-d1b8-4d00-93d2-86fec624bfb4.png",
+    "name": "Positively Running -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/running/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/ee7a91c9-47e7-4931-9bb3-d35e222c7d71.png",
+    "name": "Positively Sleep Baby -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/sleepbaby/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/3176fe92-b3c4-4c03-a69b-85712502e83c.png",
+    "name": "Positively Sleep Classical -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/sleepclassical/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/94d1af8b-a87c-49d3-96cd-a6727ac5eaed.png",
+    "name": "Positively Sleep Kids -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/sleepkids/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/cea14a8d-e13f-4370-9feb-77df48b3b3cc.png",
+    "name": "Positively Sleep Max Richter -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/maxrichter/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/908c3c4f-367a-4962-b9ea-8a2f458e80da.png",
+    "name": "Positively Sleep Relax -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/sleeprelax/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/13b4a62d-6af3-4150-b1d6-7bfb768608ef.png",
+    "name": "Positively Sleep Tones -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/sleeptones/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/47b15c2e-423c-4648-bb2f-7bef025e5ba4.png",
+    "name": "Positively Sleepy -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posisleepy/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/a0650499-5824-42c9-bd94-b60804e32131.png",
+    "name": "Positively Sound Bath -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posisoundbath/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/3bcc8b4f-8592-4b67-af51-340336df4b44.png",
+    "name": "Positively Spa -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/spa/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/240002ea-2a00-4f83-aa8e-01789fa230bd.png",
+    "name": "Positively Uplifting 417Hz -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/uplifting/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/276f1ff6-4ac3-4ee1-bf2e-3711de267ee1.png",
+    "name": "Positively Vibe -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/posivibe/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/3558595d-efa8-4964-883c-822c447e870c.png",
+    "name": "Positively Vibrant -om",
+    "url_resolved": "https://streaming.positivity.radio/pr/vibrant/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Qmall FM",
+    "url_resolved": "https://stream-176.zeno.fm/izblfimb4urtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpemJsZmltYjR1cnR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQkV5bk9pdnVUNU9wVnh2N2lZWXk0QSIsImlhdCI6MTc1NzA0MDk2OCwiZXhwIjoxNzU3MDQxMDI4fQ.ftjxlKlv84xkCr1byEWdkkNTvuFUuVLtVlVpdYHb_EU"
+  },
+  {
+    "favicon": "null",
+    "name": "Quran Radio From Sharjah",
+    "url_resolved": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio"
+  },
+  {
+    "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+    "name": "Radio Classica - Strauss",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crstrauss/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Radio Mirchi Dubai",
+    "url_resolved": "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1"
+  },
+  {
+    "favicon": "",
+    "name": "Radio Relax",
+    "url_resolved": "https://online.radiorelax.ua/RadioRelax_Int_HD"
+  },
+  {
+    "favicon": "https://www.radiogilli.com/uploads/logo.webp",
+    "name": "RadioGilli",
+    "url_resolved": ""
+  },
+  {
+    "favicon": "https://rakradio.ae/wp-content/uploads/2025/05/fac-LOGO-RAK.jpg",
+    "name": "Rak Radio UAE",
+    "url_resolved": "https://stream.chiliradio.app/gulfradio"
+  },
+  {
+    "favicon": "",
+    "name": "Ray Charles",
+    "url_resolved": "https://2.mystreaming.net:443/er/raycharles/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png",
+    "name": "Rock The World - Alt Rock",
+    "url_resolved": "https://2.mystreaming.net:443/uber/rtwalt/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/dc25f41d-2e09-47ea-ad92-294cf1a36c2d.png",
+    "name": "Rock The World - Blues Rock",
+    "url_resolved": "https://2.mystreaming.net:443/uber/rtwblues/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/ccd36487-9de6-45f7-ac5a-31e5b550776f.png",
+    "name": "Rock The World - Classic Rock",
+    "url_resolved": "https://2.mystreaming.net:443/uber/rtwclassics/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/6a8484ea-3ecd-46b7-9a49-929d31944f35.png",
+    "name": "Rock The World - Country Rock",
+    "url_resolved": "https://2.mystreaming.net:443/uber/rtwcountry/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/9f9e3c8f-59ee-47dd-ab88-32bbd1547223.png",
+    "name": "Rock The World - Heavy Metal",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/rtwheavymetal/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/54cbea03-00ec-46a1-9e33-4e7823d47127.png",
+    "name": "Rock The World - Prog Rock",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/rtwprog/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/8107965e-0523-42b9-b474-e6e6af05df9d.png",
+    "name": "Rock The World - Punk Rock",
+    "url_resolved": "https://2.mystreaming.net:443/uber/rtwpunk/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/bf566bf2-efc1-4ee7-b727-c2a940303ec1.png",
+    "name": "Rock The World - Stadium Rock",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/rtwstadium/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Rolling Stones",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/rollingstones/icecast.audio"
+  },
+  {
+    "favicon": "http://www.skynewsarabia.com/apple-touch-icon-72x72.png",
+    "name": "Sky Arabia News TV",
+    "url_resolved": "https://stream.skynewsarabia.com/hls/sna_720.m3u8"
+  },
+  {
+    "favicon": "https://skynewsarabia.com/apple-touch-icon-72x72.png",
+    "name": "sky news arabia radio",
+    "url_resolved": "https://stream.skynewsarabia.com/hls/sna.m3u8"
+  },
+  {
+    "favicon": "null",
+    "name": "Sportify bollywood workout ",
+    "url_resolved": "https://2.mystreaming.net:443/uber/sportifybollywood/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Sportify bollywood workout ",
+    "url_resolved": "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Sportify bollywood workout radio",
+    "url_resolved": "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Stan Gett",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/jjrstangetz/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Blues",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/starboxblues/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Country Classic",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/starboxcountry/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Easy",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxeasy/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Indie",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxindie/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Jazz",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxjazz/icecast.audio"
+  },
+  {
+    "favicon": "https://starbox.radio/station/102/137",
+    "name": "StarBox Motown",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/starboxmotown/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Northern Soul",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxnorthernsoul/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Reggae",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxreggae/icecast.audio"
+  },
+  {
+    "favicon": "https://starbox.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "StarBox RnB",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxrnb/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Rock",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/starboxrock/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Soft Rock",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/starboxsoftrock/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "StarBox Soul",
+    "url_resolved": "https://2.mystreaming.net:443/uber/starboxsoul/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Stevie Wonder",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/steviewonder/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Suno FM",
+    "url_resolved": "http://51.255.235.165:5476/"
+  },
+  {
+    "favicon": "https://www.tag911.ae",
+    "name": "TAG 91.1",
+    "url_resolved": "https://stream-158.zeno.fm/7neg6f1hbm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibEUtR0ppcERUczZnWTAxUVZQWXFMdyIsImlhdCI6MTc1NzA0MDA3NywiZXhwIjoxNzU3MDQwMTM3fQ.KVhEmY3npef3pr_9kebST5dP778aaP9h0zqtNVRvunY"
+  },
+  {
+    "favicon": "https://www.tag911.ae/favicon",
+    "name": "TAG 91.1",
+    "url_resolved": "https://stream-159.zeno.fm/7neg6f1hbm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid0I3UkdjbGxTd3VfemRvWDRCQ3lQdyIsImlhdCI6MTc1NzA0MjE2MSwiZXhwIjoxNzU3MDQyMjIxfQ.xwSg23-rA7sjJgGwjDrZUWPJyN0ip_dv41PwaiNYIc0"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/brand/c7d4cfa2-b7d4-4501-8946-4dcb826c9bd3.png",
+    "name": "The Best Of - Christmas Pop",
+    "url_resolved": "https://2.mystreaming.net:443/er/christmaspop/icecast.audio"
+  },
+  {
+    "favicon": "https://mytuner-radio.com/favicon.ico",
+    "name": "The Groovy Smooth Jazz Station",
+    "url_resolved": "https://jazz.streeemer.com/listen/jazz/radio.aac"
+  },
+  {
+    "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "The Who Radio - Only Hits",
+    "url_resolved": "https://nl4.mystreaming.net:443/er-app/whohits/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1951",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1951/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1952",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1952/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1953",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2023/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1953",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1953/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1954",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1954/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1955",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1955/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1956",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1956/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1957",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1957/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1958",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1958/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1959",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1959/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1960",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1960/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1961",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1961/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1962",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1962/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1963",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1963/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1964",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1964/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1965",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1965/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1966",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1966/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1967",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1967/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1968",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1968/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1969",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1969/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1970",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1970/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1971",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1971/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1972",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1972/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1973",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1973/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1974",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1974/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1975",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1975/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1976",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1976/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1977",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1977/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1978",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1978/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1979",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1979/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1980",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1980/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1981",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1981/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1982",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1982/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1983",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1983/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1984",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1984/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1985",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1985/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1986",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1986/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1987",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1987/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1988",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1988/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1989",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1989/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1990",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1990/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 1991",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1991/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1995",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1995/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1996",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1996/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1997",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1997/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1998",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1998/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 1999",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/1999/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2000",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2000/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2001",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2001/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 2002",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2002/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 2003",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2003/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2004",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2004/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2005",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2005/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2006",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2006/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2007",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2007/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2008",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2008/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2009",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2009/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2010",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2010/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2011",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2011/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2012",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2012/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2013",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2013/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2014",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2014/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2015",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2015/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio - 2016",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2016/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1335f3c2-0b47-47e5-903a-e5634864a2ed.png",
+    "name": "Tick Tock Radio - 2017",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2017/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/station/886",
+    "name": "Tick Tock Radio - 2018",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2018/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/931908a6-e834-4faf-acf3-abaedebc3b68.png",
+    "name": "Tick Tock Radio - 2019",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2019/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/2d397f22-d8b8-4d1b-9493-a7c67aff5a3d.png",
+    "name": "Tick Tock Radio - 2020",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2020/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a3f5d62d-ad86-4cbb-81f2-d3112cb1647c.png",
+    "name": "Tick Tock Radio - 2021",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2021/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 2023",
+    "url_resolved": "https://nl4.mystreaming.net:443/tt/2023/icecast.audio"
+  },
+  {
+    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "name": "Tick Tock Radio - 2024",
+    "url_resolved": "https://2.mystreaming.net:443/tt/2024/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio 1951",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1951/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tick Tock Radio 1965",
+    "url_resolved": "https://2.mystreaming.net:443/tt/1965/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tinder Radio - Bollywood",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/bollywoodmix/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/9af2a0dc-ea99-4bcc-9752-a18c7f2e2e06.png",
+    "name": "Tinder Radio - Christmas Carols",
+    "url_resolved": "https://2.mystreaming.net:443/er/christmascarols/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tinder Radio - Christmas Pop",
+    "url_resolved": "https://2.mystreaming.net:443/er/christmaspop/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Tinder Radio - Hollywood & Broadway Musicals",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/hollywoodandbroadway/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Tinder radio bollywood",
+    "url_resolved": "https://2.mystreaming.net/uber/bollywoodmix/icecast.audio"
+  },
+  {
+    "favicon": "https://manager.uber.radio/static/uploads/station/c9e3d176-babb-4195-a8c5-d7915abca91a.png",
+    "name": "Tinder Radio Hollywood & Broadway Musicals",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/hollywoodandbroadway/icecast.audio"
+  },
+  {
+    "favicon": "",
+    "name": "Van Morrison",
+    "url_resolved": "https://2.mystreaming.net:443/er/vanmorrison/icecast.audio"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Vanessa Mae - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crvanessamae/icecast.audio"
+  },
+  {
+    "favicon": "https://www.vanessamae.net/wp-content/uploads/2016/09/img_6934.jpg",
+    "name": "Vanessa Mae - Classical Radio",
+    "url_resolved": "https://nl4.mystreaming.net:443/uber/crvanessamae/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "Vibe fm 105.4",
+    "url_resolved": "http://ccfz.dyndns.org:4427/vfm"
+  },
+  {
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7PNP9dOlBuS3qARDkYdU9q3ygAckWE9MbQ&s",
+    "name": "Vibe FM UAE",
+    "url_resolved": "http://ccfz.dyndns.org:4427/vfm"
+  },
+  {
+    "favicon": "https://classicalradio.world/static/assets/img/apple-icon-120x120.png",
+    "name": "Vienna Philharmonic - Classical Radio",
+    "url_resolved": "https://2.mystreaming.net:443/uber/crviennaphilharmonic/icecast.audio"
+  },
+  {
+    "favicon": "https://www.virginradiodubai.com/favicon",
+    "name": "Virgin Radio Dubai 104.4 FM",
+    "url_resolved": "https://radio.virginradio.co.uk/stream"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png",
+    "name": "World Music Radio - Afrobeats",
+    "url_resolved": "https://2.mystreaming.net:443/er/afrobeats/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png",
+    "name": "World Music Radio - Bollywood",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/bollywood/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png",
+    "name": "World Music Radio - Italy",
+    "url_resolved": "https://2.mystreaming.net:443/er/italy/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png",
+    "name": "World Music Radio - J-Pop",
+    "url_resolved": "https://nl4.mystreaming.net:443/er/jpop/icecast.audio"
+  },
+  {
+    "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png",
+    "name": "World Music Radio - K-Pop",
+    "url_resolved": "https://2.mystreaming.net:443/er/kpop/icecast.audio"
+  },
+  {
+    "favicon": "null",
+    "name": "World music radio bollywood ",
+    "url_resolved": "http://nl4.mystreaming.net:80/er/bollywood/icecast.audio"
+  },
+  {
+    "favicon": "https://asharq.com/favicon.ico",
+    "name": "الشرق ",
+    "url_resolved": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8"
+  },
+  {
+    "favicon": "https://asharq.com/favicon.ico",
+    "name": "الشرق",
+    "url_resolved": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_3/chunklist.m3u8"
+  }
+]
