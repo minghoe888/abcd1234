@@ -1,0 +1,107 @@
+[
+  {
+    "favicon": "https://www.cbc.bb/wp-content/uploads/2022/12/981-The-One-Logo.jpg",
+    "name": "98.1 The One",
+    "url_resolved": "http://108.178.16.190:8000/981fm.mp3"
+  },
+  {
+    "favicon": "null",
+    "name": "Abdulbasit Abdulsamad",
+    "url_resolved": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+  },
+  {
+    "favicon": "null",
+    "name": "Abdulbasit Abdulsamad",
+    "url_resolved": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+  },
+  {
+    "favicon": "https://www.cbc.bb/wp-content/uploads/2022/12/CBC-94-7-FM.jpg",
+    "name": "CBC 94.7 FM",
+    "url_resolved": "http://108.178.16.190:8000/947fm.mp3"
+  },
+  {
+    "favicon": "https://i0.wp.com/www.irievibesmusicgroup.com/wp-content/uploads/2017/07/EBR-final.jpg?resize=150%2C150",
+    "name": "Evah Blaze Radio",
+    "url_resolved": "http://streaming.radio.co/s1c1beb15d/listen"
+  },
+  {
+    "favicon": "https://starcomnetwork.net/wp-content/uploads/2024/01/HOTT-953-FM-LOGO-full-colour-wide-3-1536x840.png",
+    "name": "HOTT 95.3FM",
+    "url_resolved": "https://ice64.securenetsystems.net/HOTT953"
+  },
+  {
+    "favicon": "https://starcomnetwork.net/wp-content/uploads/2023/06/Life97.5FM.png",
+    "name": "LIFE 97.5 FM",
+    "url_resolved": "https://ice64.securenetsystems.net/LIFE975"
+  },
+  {
+    "favicon": "https://www.cbc.bb/wp-content/uploads/2022/12/Q-FM-LOGO.jpg",
+    "name": "Q 100.7 FM",
+    "url_resolved": "http://108.178.16.190:8000/1007fm.mp3"
+  },
+  {
+    "favicon": "https://www.facebook.com/favicon.ico",
+    "name": "Q 100.7 FM",
+    "url_resolved": "http://108.178.16.190:8000/1007fm.mp3"
+  },
+  {
+    "favicon": "",
+    "name": "Q100.7 FM",
+    "url_resolved": "http://108.178.16.190:8000/1007fm.mp3"
+  },
+  {
+    "favicon": "https://cdn.onlineradiobox.com/img/l/7/133527.v13.png",
+    "name": "Radio Bimshire 106.1 FM",
+    "url_resolved": "https://listen.radioking.com/radio/635914/stream/700051"
+  },
+  {
+    "favicon": "https://relaxingjazz.com/wp-content/uploads/2023/12/RELAXING-JAZZ-LOGO-2-300x300.png",
+    "name": "RelaxingJazz.com",
+    "url_resolved": "http://stream-02-eu.relaxingjazz.com/stream/3/"
+  },
+  {
+    "favicon": "https://www.slam101fm.com/wp-content/uploads/2020/01/logo-sl-white.png",
+    "name": "SLAM 101.1",
+    "url_resolved": "http://usa4.fastcast4u.com:5006/;"
+  },
+  {
+    "favicon": "https://www.slam101fm.com/wp-content/uploads/2020/01/logo-sl-white.png",
+    "name": "Slam 101.1",
+    "url_resolved": "http://usa4.fastcast4u.com:5006/stream"
+  },
+  {
+    "favicon": "",
+    "name": "Slam 101.1 - Haggatt Hall",
+    "url_resolved": "http://usa4.fastcast4u.com:5006/;"
+  },
+  {
+    "favicon": "https://starcomnetwork.net/wp-content/uploads/2023/06/TheBeat104.jpg",
+    "name": "The BEAT 104.1 FM",
+    "url_resolved": "https://ice66.securenetsystems.net/THEBEAT1041"
+  },
+  {
+    "favicon": "https://www.facebook.com/favicon.ico",
+    "name": "The One 98.1 FM",
+    "url_resolved": "http://108.178.16.190:8000/981fm.mp3"
+  },
+  {
+    "favicon": "https://starcomnetwork.net/wp-content/uploads/2023/06/VOB-Logo-Trans.png",
+    "name": "VOB 92.9 FM",
+    "url_resolved": "https://ice66.securenetsystems.net/VOB929"
+  },
+  {
+    "favicon": "https://cdn-profiles.tunein.com/s16653/images/logog.png?t=1",
+    "name": "VOB 92.9 FM",
+    "url_resolved": "https://ice66.securenetsystems.net:80/VOB929"
+  },
+  {
+    "favicon": "",
+    "name": "Y103.3 - Haggatt Hall",
+    "url_resolved": "http://usa4.fastcast4u.com:5336/;"
+  },
+  {
+    "favicon": "https://www.y103fm.com/wp-content/uploads/2024/09/Y103logo.png",
+    "name": "Y103.3 FM",
+    "url_resolved": "http://usa4.fastcast4u.com:5336/;"
+  }
+]
